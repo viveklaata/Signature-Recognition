@@ -14,6 +14,6 @@ Item Matching of test signature with training sample images.
 
 Screenshot of GUI GUI Image
 
-![GitHub Logo](Signature-Recognition/signature_soft.PNG)
+![GitHub Logo](/Signature-Recognition/signature_soft.PNG)
 
 
